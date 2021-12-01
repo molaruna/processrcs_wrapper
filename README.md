@@ -19,7 +19,6 @@ Session1570955823964
 ```
 Now, in the Matlab command window, input the parent directory of the Sessions folders:
 ```
-
 processrcs_wrapper('/Users/mariaolaru/Documents/RCS07/RCS07L/RCS07L_pre-stim')
 ```
 
